@@ -1,0 +1,15 @@
+F:\kanini\C#\Program\ASSIGNMENT\ASSIGNMENT\bin\Debug\net6.0\ASSIGNMENT.exe
+F:\kanini\C#\Program\ASSIGNMENT\ASSIGNMENT\bin\Debug\net6.0\ASSIGNMENT.deps.json
+F:\kanini\C#\Program\ASSIGNMENT\ASSIGNMENT\bin\Debug\net6.0\ASSIGNMENT.runtimeconfig.json
+F:\kanini\C#\Program\ASSIGNMENT\ASSIGNMENT\bin\Debug\net6.0\ASSIGNMENT.dll
+F:\kanini\C#\Program\ASSIGNMENT\ASSIGNMENT\bin\Debug\net6.0\ASSIGNMENT.pdb
+F:\kanini\C#\Program\ASSIGNMENT\ASSIGNMENT\obj\Debug\net6.0\ASSIGNMENT.csproj.AssemblyReference.cache
+F:\kanini\C#\Program\ASSIGNMENT\ASSIGNMENT\obj\Debug\net6.0\ASSIGNMENT.GeneratedMSBuildEditorConfig.editorconfig
+F:\kanini\C#\Program\ASSIGNMENT\ASSIGNMENT\obj\Debug\net6.0\ASSIGNMENT.AssemblyInfoInputs.cache
+F:\kanini\C#\Program\ASSIGNMENT\ASSIGNMENT\obj\Debug\net6.0\ASSIGNMENT.AssemblyInfo.cs
+F:\kanini\C#\Program\ASSIGNMENT\ASSIGNMENT\obj\Debug\net6.0\ASSIGNMENT.csproj.CoreCompileInputs.cache
+F:\kanini\C#\Program\ASSIGNMENT\ASSIGNMENT\obj\Debug\net6.0\ASSIGNMENT.dll
+F:\kanini\C#\Program\ASSIGNMENT\ASSIGNMENT\obj\Debug\net6.0\refint\ASSIGNMENT.dll
+F:\kanini\C#\Program\ASSIGNMENT\ASSIGNMENT\obj\Debug\net6.0\ASSIGNMENT.pdb
+F:\kanini\C#\Program\ASSIGNMENT\ASSIGNMENT\obj\Debug\net6.0\ASSIGNMENT.genruntimeconfig.cache
+F:\kanini\C#\Program\ASSIGNMENT\ASSIGNMENT\obj\Debug\net6.0\ref\ASSIGNMENT.dll

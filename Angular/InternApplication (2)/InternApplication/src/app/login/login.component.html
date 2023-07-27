@@ -1,0 +1,22 @@
+
+<div>
+    <table>
+        <tr>
+            <td><label class="form-control">UserId</label></td>
+            <td><input class="form-control" [(ngModel)]="this.User.UserId"
+            ></td>
+        </tr>
+        <tr>
+            <td><label class="form-control">Password</label></td>
+            <td><input class="form-control" type="text"[(ngModel)]="this.User.Password" ></td>
+        </tr>
+       
+        <tr>
+            <td><button class="btn btn-success"(click)="addUser()" >login</button></td>
+        </tr>
+       
+    </table>
+</div>
+<div>
+    {{User|json}}
+</div>

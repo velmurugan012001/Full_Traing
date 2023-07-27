@@ -1,0 +1,8 @@
+F:\kanini\C#\Program\Basic\LINQtoSQL\bin\Debug\LINQtoSQL.exe.config
+F:\kanini\C#\Program\Basic\LINQtoSQL\bin\Debug\LINQtoSQL.exe
+F:\kanini\C#\Program\Basic\LINQtoSQL\bin\Debug\LINQtoSQL.pdb
+F:\kanini\C#\Program\Basic\LINQtoSQL\obj\Debug\LINQtoSQL.csproj.AssemblyReference.cache
+F:\kanini\C#\Program\Basic\LINQtoSQL\obj\Debug\LINQtoSQL.csproj.SuggestedBindingRedirects.cache
+F:\kanini\C#\Program\Basic\LINQtoSQL\obj\Debug\LINQtoSQL.csproj.CoreCompileInputs.cache
+F:\kanini\C#\Program\Basic\LINQtoSQL\obj\Debug\LINQtoSQL.exe
+F:\kanini\C#\Program\Basic\LINQtoSQL\obj\Debug\LINQtoSQL.pdb

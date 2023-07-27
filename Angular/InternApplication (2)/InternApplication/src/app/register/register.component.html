@@ -1,0 +1,41 @@
+<div>
+    <table>
+        <tr>
+            <td><label class="form-control">Full Name</label></td>
+            <td><input class="form-control"  [(ngModel)]="intern.Name"> </td>
+            
+        </tr>
+        <tr>
+            <td><label class="form-control">Phone</label></td>
+            <td><input class="form-control" type="text" [(ngModel)]="intern.Phone"></td>
+        </tr>
+        <tr>
+            <td><label class="form-control">Email</label></td>
+            <td><input class="form-control" type="text" [(ngModel)]="intern.Email"></td>
+        </tr>
+        <tr>
+            <td><label class="form-control">Gender</label></td>
+            <td>
+                <select class="form-control" (change)="addGender(gender.value)" #gender>
+                    <option value="female">Female</option>
+                    <option value="male">Male</option>
+                </select>
+            </td>
+        </tr>
+        <tr>
+            <td><label class="form-control">Date Of Birth</label></td>
+            <td><input class="form-control" type="date" [(ngModel)]="intern.dateOfBirth"></td>
+        </tr>
+        <tr>
+            <td><label class="form-control">Age</label></td>
+            <td><input class="form-control" type="number" [(ngModel)]="intern.Age"></td>
+        </tr>
+        <tr>
+            <td><button class="btn btn-success" (click)="addIntern()">Register</button></td>
+            <td><button class="btn btn-danger">Cancel</button></td>
+        </tr>
+    </table>
+</div>
+<div>
+    {{intern| json}}
+</div>

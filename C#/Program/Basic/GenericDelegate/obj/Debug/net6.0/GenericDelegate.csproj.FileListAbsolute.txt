@@ -1,0 +1,15 @@
+F:\kanini\C#\Program\Basic\GenericDelegate\bin\Debug\net6.0\GenericDelegate.exe
+F:\kanini\C#\Program\Basic\GenericDelegate\bin\Debug\net6.0\GenericDelegate.deps.json
+F:\kanini\C#\Program\Basic\GenericDelegate\bin\Debug\net6.0\GenericDelegate.runtimeconfig.json
+F:\kanini\C#\Program\Basic\GenericDelegate\bin\Debug\net6.0\GenericDelegate.dll
+F:\kanini\C#\Program\Basic\GenericDelegate\bin\Debug\net6.0\GenericDelegate.pdb
+F:\kanini\C#\Program\Basic\GenericDelegate\obj\Debug\net6.0\GenericDelegate.csproj.AssemblyReference.cache
+F:\kanini\C#\Program\Basic\GenericDelegate\obj\Debug\net6.0\GenericDelegate.GeneratedMSBuildEditorConfig.editorconfig
+F:\kanini\C#\Program\Basic\GenericDelegate\obj\Debug\net6.0\GenericDelegate.AssemblyInfoInputs.cache
+F:\kanini\C#\Program\Basic\GenericDelegate\obj\Debug\net6.0\GenericDelegate.AssemblyInfo.cs
+F:\kanini\C#\Program\Basic\GenericDelegate\obj\Debug\net6.0\GenericDelegate.csproj.CoreCompileInputs.cache
+F:\kanini\C#\Program\Basic\GenericDelegate\obj\Debug\net6.0\GenericDelegate.dll
+F:\kanini\C#\Program\Basic\GenericDelegate\obj\Debug\net6.0\refint\GenericDelegate.dll
+F:\kanini\C#\Program\Basic\GenericDelegate\obj\Debug\net6.0\GenericDelegate.pdb
+F:\kanini\C#\Program\Basic\GenericDelegate\obj\Debug\net6.0\GenericDelegate.genruntimeconfig.cache
+F:\kanini\C#\Program\Basic\GenericDelegate\obj\Debug\net6.0\ref\GenericDelegate.dll
